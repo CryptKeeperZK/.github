@@ -14,3 +14,5 @@
 CryptKeeper is a zero knowledge identity management and proof generation tool. 
 
 *This Github organization is maintained by the **PSE** ([Privacy & Scaling Explorations](https://github.com/privacy-scaling-explorations/)), a multidisciplinary team supported by the **Ethereum Foundation**. **PSE** explores new use cases for zero-knowledge proofs and other cryptographic primitives.*
+
+[Documentation](https://cryptkeeperzk.github.io/crypt-keeper-extension/what-is-cryptkeeper/_intro.html)
